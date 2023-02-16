@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829517557567",
+    "project_id": "multi-language-chat-app-d8ed8",
+    "storage_bucket": "multi-language-chat-app-d8ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829517557567:android:5eba4e99f657409f882d8a",
+        "android_client_info": {
+          "package_name": "com.example.multi_language_firebase_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829517557567-5os6cpu70v7sf37qam4rus95ujb296jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpUxLvkfedgUei78VFhVLGXOoYvSvXyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829517557567-5os6cpu70v7sf37qam4rus95ujb296jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
