@@ -83,6 +83,11 @@ https://user-images.githubusercontent.com/92030900/229338331-9ee22922-2794-4aac-
 <h3>Search Profile page</h2>
 <img src="https://user-images.githubusercontent.com/92030900/229350248-185149e4-cd16-4c9e-92ce-67b1f31c0332.jpg" width="250" height="500">
 
+# Activity Diagram
+<img src="https://user-images.githubusercontent.com/92030900/229351426-71180dde-9453-4f6e-8e2c-de3b6879e54d.jpg" width="750" height="900">
+
+<img src="https://user-images.githubusercontent.com/92030900/229351432-69264428-5cb3-4faf-9c3f-83742673def6.jpg" width="750" height="900">
+
 
 
 
